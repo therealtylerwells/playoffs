@@ -1,6 +1,6 @@
 # Playoffs 
 
-I did this during a job interview process w/ MLB dot com. They ghosted me in return. I don't think it's that bad tbh.
+I did this during a job interview process w/ MLB dot com. They ghosted me in return. I don't think it's that bad.
 
 ## Run it
 
